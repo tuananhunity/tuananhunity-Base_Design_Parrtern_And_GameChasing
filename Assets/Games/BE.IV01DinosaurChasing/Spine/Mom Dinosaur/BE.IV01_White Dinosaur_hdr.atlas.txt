@@ -1,0 +1,104 @@
+
+BE.IV01_White Dinosaur_hdr.png
+size: 1845,1027
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chan
+  rotate: true
+  xy: 686, 776
+  size: 249, 449
+  orig: 249, 449
+  offset: 0, 0
+  index: -1
+Chan_1b
+  rotate: false
+  xy: 1230, 2
+  size: 250, 449
+  orig: 250, 449
+  offset: 0, 0
+  index: -1
+Chan_2a
+  rotate: false
+  xy: 1482, 2
+  size: 250, 449
+  orig: 250, 449
+  offset: 0, 0
+  index: -1
+Chan_2b
+  rotate: true
+  xy: 686, 525
+  size: 249, 449
+  orig: 249, 449
+  offset: 0, 0
+  index: -1
+Con_nguoi
+  rotate: false
+  xy: 2, 3
+  size: 102, 124
+  orig: 102, 124
+  offset: 0, 0
+  index: -1
+Dau
+  rotate: false
+  xy: 1230, 453
+  size: 586, 572
+  orig: 586, 572
+  offset: 0, 0
+  index: -1
+Duoi
+  rotate: false
+  xy: 686, 158
+  size: 269, 365
+  orig: 269, 365
+  offset: 0, 0
+  index: -1
+Layer_14
+  rotate: false
+  xy: 106, 9
+  size: 1122, 118
+  orig: 1122, 118
+  offset: 0, 0
+  index: -1
+Long_mi
+  rotate: false
+  xy: 1734, 285
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+Mat
+  rotate: true
+  xy: 957, 215
+  size: 151, 150
+  orig: 151, 150
+  offset: 0, 0
+  index: -1
+Mi_mat
+  rotate: false
+  xy: 957, 368
+  size: 159, 155
+  orig: 159, 155
+  offset: 0, 0
+  index: -1
+Mieng
+  rotate: false
+  xy: 1734, 399
+  size: 109, 52
+  orig: 109, 53
+  offset: 0, 1
+  index: -1
+Mui
+  rotate: false
+  xy: 1734, 336
+  size: 91, 61
+  orig: 91, 61
+  offset: 0, 0
+  index: -1
+Than
+  rotate: true
+  xy: 2, 129
+  size: 896, 682
+  orig: 896, 682
+  offset: 0, 0
+  index: -1

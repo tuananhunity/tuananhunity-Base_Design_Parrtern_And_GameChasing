@@ -1,0 +1,139 @@
+
+skeleton_hdr.png
+size: 1480,1047
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eye
+  rotate: true
+  xy: 827, 311
+  size: 310, 306
+  orig: 310, 306
+  offset: 0, 0
+  index: -1
+Eye_ball
+  rotate: true
+  xy: 621, 829
+  size: 216, 247
+  orig: 216, 247
+  offset: 0, 0
+  index: -1
+Eye_close_A
+  rotate: false
+  xy: 875, 2
+  size: 124, 91
+  orig: 124, 91
+  offset: 0, 0
+  index: -1
+Eye_close_B
+  rotate: false
+  xy: 1001, 13
+  size: 123, 91
+  orig: 123, 91
+  offset: 0, 0
+  index: -1
+Foot_A
+  rotate: false
+  xy: 621, 726
+  size: 219, 101
+  orig: 219, 101
+  offset: 0, 0
+  index: -1
+Foot_B
+  rotate: false
+  xy: 621, 623
+  size: 218, 101
+  orig: 218, 101
+  offset: 0, 0
+  index: -1
+Hand_A
+  rotate: false
+  xy: 621, 91
+  size: 62, 162
+  orig: 62, 162
+  offset: 0, 0
+  index: -1
+Hand_B
+  rotate: false
+  xy: 685, 91
+  size: 62, 162
+  orig: 62, 162
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 875, 627
+  size: 603, 418
+  orig: 603, 418
+  offset: 0, 0
+  index: -1
+Leg_A1
+  rotate: false
+  xy: 1275, 430
+  size: 202, 195
+  orig: 202, 195
+  offset: 0, 0
+  index: -1
+Leg_A2
+  rotate: false
+  xy: 1135, 364
+  size: 138, 261
+  orig: 138, 261
+  offset: 0, 0
+  index: -1
+Leg_B1
+  rotate: true
+  xy: 956, 106
+  size: 203, 195
+  orig: 203, 195
+  offset: 0, 0
+  index: -1
+Leg_B2
+  rotate: true
+  xy: 1153, 105
+  size: 138, 261
+  orig: 138, 261
+  offset: 0, 0
+  index: -1
+Mount_1
+  rotate: true
+  xy: 621, 255
+  size: 366, 204
+  orig: 366, 204
+  offset: 0, 0
+  index: -1
+Mount_2
+  rotate: true
+  xy: 2, 38
+  size: 1007, 217
+  orig: 1007, 217
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 221, 10
+  size: 652, 69
+  orig: 652, 69
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 221, 81
+  size: 964, 398
+  orig: 964, 398
+  offset: 0, 0
+  index: -1
+mi_mat
+  rotate: false
+  xy: 1275, 245
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+tongue
+  rotate: false
+  xy: 749, 95
+  size: 205, 158
+  orig: 205, 158
+  offset: 0, 0
+  index: -1
